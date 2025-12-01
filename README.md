@@ -92,10 +92,6 @@ jupyter notebook
 3. **Transition hours** (4-7 AM, 19-22 PM) remain most challenging to predict
 4. **Ensemble methods** capture non-linear weather-time interactions effectively
 
-## References
-
-See full citations in [Final_Report.pdf](report/Final_Report.pdf)
-
 ## License
 
 This project is for educational purposes as part of DS 5110 coursework.
