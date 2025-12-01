@@ -42,10 +42,7 @@ cd DS-5110-Final-Project-Seoul-Bike-Sharing
 # Install dependencies
 pip install -r requirements.txt
 
-# Run preprocessing
-python src/data_preparation.py
-
-# Run models (in notebooks/ directory)
+# Run models
 jupyter notebook
 ```
 
